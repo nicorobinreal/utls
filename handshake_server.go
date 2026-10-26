@@ -18,7 +18,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/albinstman/utls/internal/byteorder"
+	"github.com/nicorobinreal/utls/internal/byteorder"
 )
 
 // serverHandshakeState contains details of a server handshake in progress.

@@ -31,8 +31,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/albinstman/utls/internal/byteorder"
-	"github.com/albinstman/utls/internal/fips140tls"
+	"github.com/nicorobinreal/utls/internal/byteorder"
+	"github.com/nicorobinreal/utls/internal/fips140tls"
 )
 
 // Note: see comment in handshake_test.go for details of how the reference

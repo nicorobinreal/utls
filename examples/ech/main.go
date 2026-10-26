@@ -14,7 +14,7 @@ import (
 	"os"
 	"time"
 
-	tls "github.com/albinstman/utls"
+	tls "github.com/nicorobinreal/utls"
 	"golang.org/x/net/http2"
 )
 

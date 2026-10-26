@@ -1,7 +1,7 @@
 package tls
 
 import (
-	"github.com/albinstman/utls/internal/hpke"
+	"github.com/nicorobinreal/utls/internal/hpke"
 )
 
 type HPKERawPublicKey = []byte

@@ -8,7 +8,7 @@ import (
 	"crypto"
 	"testing"
 
-	"github.com/albinstman/utls/internal/fips140tls"
+	"github.com/nicorobinreal/utls/internal/fips140tls"
 )
 
 func TestSignatureSelection(t *testing.T) {

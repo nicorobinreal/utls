@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	tls "github.com/albinstman/utls"
+	tls "github.com/nicorobinreal/utls"
 )
 
 type ClientSessionCache struct {

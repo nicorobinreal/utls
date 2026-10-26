@@ -12,7 +12,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/albinstman/utls/internal/tls13"
+	"github.com/nicorobinreal/utls/internal/tls13"
 )
 
 func TestACVPVectors(t *testing.T) {

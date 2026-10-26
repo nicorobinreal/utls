@@ -6,7 +6,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/albinstman/utls/internal/quicvarint"
+	"github.com/nicorobinreal/utls/internal/quicvarint"
 )
 
 const (

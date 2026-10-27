@@ -26,8 +26,8 @@ import (
 	"testing/cryptotest"
 	"time"
 
-	icryptotest "github.com/bogdanfinn/utls/internal/cryptotest"
-	"github.com/bogdanfinn/utls/internal/testenv"
+	icryptotest "github.com/nicorobinreal/utls/internal/cryptotest"
+	"github.com/nicorobinreal/utls/internal/testenv"
 )
 
 var generate = flag.Bool("generate", false, "regenerate certificates_test.go")
